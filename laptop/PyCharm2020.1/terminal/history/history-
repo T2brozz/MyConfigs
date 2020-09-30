@@ -1,0 +1,234 @@
+tar xjf ./nautilus-dropbox-1.6.2.tar.bz2
+cd ./nautilus-dropbox-1.6.1; ./configure; make; make install;
+cd ./nautilus-dropbox-1.6.2; ./configure; make; make install;
+sudo apt-get install libnautilus-extension-dev
+sudo pacman -S libnautilus-extension-dev
+sudo makepkg -S libnautilus-extension-dev
+makepkg -S libnautilus-extension-dev
+python --version
+pip --version
+node --version
+git
+sudo pacman -S git
+git clone https://aur.archlinux.org/dropbox.git
+cd dropbox/
+makepkg -si
+rm -rf ~/.dropbox-dist
+install -dm0 ~/.dropbox-dist
+cd dropbox/
+makepkg -si
+gpg --recv-key FC918B335044912E
+makepkg -si
+rm -rf ~/.dropbox-dist
+install -dm0 ~/.dropbox-dist
+wget -qO - https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add -
+cd ..
+cd ..
+ls
+cd yannes/
+wget -qO - https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add -
+sudo pacman -S atom
+pacman -S libinput
+sudo pacman -S libinput
+libinput list-devices
+sudo libinput list-devices
+xinput list
+libinput xinput
+sudo pacman -S xinput
+sudo pacman -S xinput
+sudo pacman -S xorg-xinput
+xinput list
+xinput list-props 12
+xinput set-prop 12 315 1
+sudo dpkg -i atom-amd64.deb
+git clone https://github.com/T2brozz/js
+git clone https://github.com/T2brozz/dots-and-boxes
+./pycharm.sh 
+ls
+./pycharm.sh 
+xinput list
+xinput
+xinput help
+xinput 12
+xinput list-props 12
+xinput set-prop 12 315 1
+xinput set-prop 12 316 1
+sudo xinput set-prop 12 316 1
+xinput list-props 12
+sudo xinput set-prop 12 316 1
+ls
+ln -s %f “%n (/home/yannes/Dropbox/Klasse 11/)”
+ln -s %f “%n (./home/yannes/Dropbox/Klasse 11/)”
+ln -s %f “%n /home/yannes/Dropbox/Klasse 11/)”
+ln -s %f “%n /home/yannes/Dropbox/Klasse 11/”
+ln -s %f “%n home/yannes/Dropbox/Klasse 11/”
+ln -s ~/Dropbox/Klass11/ klasse11
+cd Desktop/
+mkdir projects
+cd projects/
+git clone https://github.com/CorentinJ/Real-Time-Voice-Cloning
+python --version
+cd Real-Time-Voice-Cloning/
+ls
+pip install -r requirements.txt
+sudo pip install -r requirements.txt
+ls
+python demo_cli.py 
+sudo python demo_cli.py 
+pip install pytorch
+pip install torch
+sudo pip install torch
+python demo_cli.py 
+sudo pip install portaudio
+sudo pip install pyaudio
+ln -s /home/yannes/Dropbox/Klasse 11/ /klasse11
+ln -s /home/yannes/Dropbox/Klasse 11/ klasse11
+ln -s /home/yannes/Dropbox/Klasse 11 klasse11
+ln -s /home/yannes/Dropbox/Klasse 11 /klasse11
+ln -s /home/yannes/Dropbox/Klasse 11 
+ln -s /home/yannes/Dropbox/Klasse 11/
+ln -s /home/yannes/Dropbox/Klasse11/ klasse11
+exit
+exit
+cd Desktop/
+dd#
+dd
+ddd
+ddd
+sudo pacman –S i3
+sudo pacman –S i3
+pacman -h
+sudo pacman –S i3 -h
+sudo pacman –S i3 -h
+sudo pacman –S i3
+sudo pacman -S i3-wm
+sudo pacman -S i3lock i3status
+i3
+rr
+./installfreeoffice 
+cd ...
+cd ..
+cd ..
+sudo pacman /
+sudo pacman -S texmaker
+./install.sh 
+sudo ./install.sh 
+git clone https://github.com/T2brozz/Arduino
+cd ..
+cd ..
+cd Arduino/
+git clone https://github.com/T2brozz/Arduino
+cd ..
+git clone https://github.com/T2brozz/Arduino
+cd ..
+cd ..
+cd ..
+ls
+cd ..
+ls
+git clone https://github.com/T2brozz/Arduino
+pacman -S audacity
+sudo pacman -S audacity
+i3
+xininout list-props 12
+xinput list-props 12
+sudo xinput set-prop 12 316 1
+sudo xinput set-prop 12 315 1
+makepkg -si
+git clone https://aur.archlinux.org/openoffice.git
+xinput 12 315 1
+xinput set-prop 12 315 1
+pacman -S fcitx
+sudo pacman -S fcitx
+git clone https://aur.archlinux.org/whatsapp-web-desktop
+ls
+cd whatsapp-web-desktop/
+makepkg
+sudo makepkg
+makepkg -s
+pkgbuild
+buildpkg
+PKGBUILD
+ PKGBUILD 
+makepkg
+makepkg -f -si
+makepkg -f -si
+ls
+pacman -S fcitx-config-gtk
+sudo pacman -S fcitx-config-gtk
+sudo pacman -S fcitx-config-gtk3
+sudo pacman -S fcitx-configtool
+xinput set-prop 12 315 1
+clear
+cp /usr/share/X11/xorg.conf.d/40-libinput.conf /etc/X11/xorg.conf.d/
+sudo cp /usr/share/X11/xorg.conf.d/40-libinput.conf /etc/X11/xorg.conf.d/
+exit
+xinput set-prop 12 315 1
+xinput 12 315 1
+xinput set-prop 12 315 1
+xinput set-prop 12 315 0
+git  clone https://aur.archlinux.org/tor-browser.git
+cd tor-browser/
+ls
+makepkg 
+gpg --recv-key EB774491D9FF06E2
+gpg --recv-key EB774491D9FF06E2
+makepkg 
+ls
+./tor-browser.sh 
+sudo ./tor-browser.sh 
+sudo 7makepkg 
+sudo 7makepkg 
+sudo makepkg 
+tor-start
+tor-browser
+sudo pacman -U --noconfirm tor-browser-9.0.2-1-x86_64.pkg.tar.xz
+tor-browser
+ssh
+ssh 192.168.178.45
+ssh 192.168.178.45
+ssh 192.168.178.45
+ssh 192.168.178.45
+ssh 192.168.178.45
+ssh 192.168.178.45
+ssh pi@192.168.178.45
+ssh pi@192.168.178.45
+format
+ mkfs
+ mkfs --help
+mount
+mount -l
+df -aTh
+ mkfs fat32 /dev/mmcblk0p2
+ mkfs -t fat32 /dev/mmcblk0p2
+ mkfs --type=fat32 /dev/mmcblk0p2
+ mkfs --type=fat32 fs-options /dev/mmcblk0p2
+ mkfs --type=fat fs-options /dev/mmcblk0p2
+sudo mkfs --type=fat fs-options /dev/mmcblk0p2
+sudo mkfs --type=fat fs-options /dev/mmcblk0
+sudo mkfs.vfat /dev/mmcblk0
+sudo mkfs.vfat /dev/mmcblk0
+git clone https://github.com/T2brozz/Ledstripe
+git.user
+git user
+git --help
+git help git
+cd ..
+cd ..
+ls
+cd ..
+cd ..
+cd ..
+fc-cache -f
+openoffice
+openoffice4 %U
+openoffice4 %U
+openoffice4 %U
+ssh 192.168.178.45
+ssh pi@192.168.178.45
+ssh pi@192.168.178.45 
+ssh pi@192.168.178.45 
+ssh pi@192.168.178.45 
+python --version
+python3 --version
+python --version

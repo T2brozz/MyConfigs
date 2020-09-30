@@ -1,0 +1,58 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1366.768" x="682" y="324" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1366.768" x="362" y="193" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1280.720" x="382" y="148" />
+    <location key="SettingsEditor.0.0.1280.720" x="120" y="0" />
+    <location key="SettingsEditor.0.0.1366.768" x="163" y="2" />
+    <location key="FileChooserDialogImpl.0.0.1280.720" x="424" y="81" />
+    <location key="WELCOME_SCREEN.0.0.1280.720" x="641" y="323" />
+    <location key="FileChooserDialogImpl.0.0.1366.768" x="466" y="130" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1366.768" x="141" y="30" />
+    <location key="CommitChangelistDialog2.0.0.1366.768" x="318" y="0" />
+    <location key="git4idea.merge.GitPullDialog.0.0.1366.768" x="386" y="166" />
+    <location key="ProcessPopupWindow.0.0.1366.768" x="964" y="620" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.1366.768" x="440" y="270" />
+    <location key="Vcs.Push.Dialog.0.0.1366.768" x="362" y="84" />
+    <location key="MultipleFileMergeDialog.0.0.1366.768" x="394" y="90" />
+    <size key="GridCell.Tab.0.left.0.0.1366.768" width="1317" height="171" />
+    <size key="GridCell.Tab.0.center.0.0.1366.768" width="1317" height="171" />
+    <size key="GridCell.Tab.0.right.0.0.1366.768" width="1317" height="171" />
+    <size key="GridCell.Tab.0.bottom.0.0.1366.768" width="1317" height="171" />
+    <size key="GridCell.Tab.0.left.0.0.1280.720" width="1257" height="249" />
+    <size key="GridCell.Tab.0.center.0.0.1280.720" width="1257" height="249" />
+    <size key="GridCell.Tab.0.right.0.0.1280.720" width="1257" height="249" />
+    <size key="GridCell.Tab.0.bottom.0.0.1280.720" width="1257" height="249" />
+    <size key="#com.intellij.fileTypes.FileTypeChooser.0.0.1280.720" width="509" height="390" />
+    <size key="SettingsEditor.0.0.1280.720" width="1033" height="684" />
+    <size key="FileChooserDialogImpl.0.0.1280.720" width="428" height="484" />
+    <size key="FileChooserDialogImpl.0.0.1366.768" width="428" height="484" />
+    <size key="CommitChangelistDialog2.0.0.1366.768" width="724" height="743" />
+    <size key="git4idea.merge.GitPullDialog.0.0.1366.768" width="588" height="413" />
+    <size key="ProcessPopupWindow.0.0.1366.768" width="400" height="122" />
+    <size key="MultipleFileMergeDialog.0.0.1366.768" width="571" height="564" />
+  </component>
+  <component name="WindowManager">
+    <frame x="684" y="26" width="675" height="735" extendedState="6" />
+    <layout>
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="465" y="96" width="424" height="484" key="FileChooserDialogImpl" timestamp="1591952207503">
+      <screen x="0" y="0" width="1366" height="740" />
+    </state>
+    <state x="465" y="96" width="424" height="484" key="FileChooserDialogImpl/0.0.1366.740" timestamp="1591952207503" />
+  </component>
+</application>

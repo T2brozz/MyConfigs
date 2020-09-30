@@ -1,0 +1,1 @@
+len('<span class="a-size-mini twisterSwatchPrice">')
