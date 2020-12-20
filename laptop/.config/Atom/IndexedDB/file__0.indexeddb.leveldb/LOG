@@ -1,0 +1,6 @@
+2020/09/11-19:39:31.819 1f70 Reusing MANIFEST /home/yannes/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/09/11-19:39:31.819 1f70 Recovering log #231
+2020/09/11-19:39:31.835 1f70 Reusing old log /home/yannes/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000231.log 
+2020/09/11-19:48:21.675 2080 Level-0 table #236: started
+2020/09/11-19:48:21.731 2080 Level-0 table #236: 1118200 bytes OK
+2020/09/11-19:48:21.747 2080 Delete type=0 #231

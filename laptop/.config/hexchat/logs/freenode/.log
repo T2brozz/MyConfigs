@@ -1,0 +1,22 @@
+**** BEGIN LOGGING AT Wed Jan  8 09:44:07 2020
+
+Jan 08 09:44:07 *	Connecting to chat.freenode.net (107.182.226.199:6697)
+Jan 08 09:44:08 *	* Subject: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Jan 08 09:44:08 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Jan 08 09:44:08 *	* Subject: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Jan 08 09:44:08 *	* Issuer: /O=Digital Signature Trust Co./CN=DST Root CA X3
+Jan 08 09:44:08 *	* Subject: /CN=livingstone.freenode.net
+Jan 08 09:44:08 *	* Issuer: /C=US/O=Let's Encrypt/CN=Let's Encrypt Authority X3
+Jan 08 09:44:08 *	* Certification info:
+Jan 08 09:44:08 *	  Subject:
+Jan 08 09:44:08 *	    CN=livingstone.freenode.net
+Jan 08 09:44:08 *	  Issuer:
+Jan 08 09:44:08 *	    C=US
+Jan 08 09:44:08 *	    O=Let's Encrypt
+Jan 08 09:44:08 *	    CN=Let's Encrypt Authority X3
+Jan 08 09:44:08 *	  Public key algorithm: rsaEncryption (4096 bits)
+Jan 08 09:44:08 *	  Sign algorithm sha256WithRSAEncryption
+Jan 08 09:44:08 *	  Valid since Dec 23 05:02:41 2019 GM to Mar 22 05:02:41 2020 GM
+Jan 08 09:44:08 *	* Cipher info:
+Jan 08 09:44:08 *	  Version: TLSv1.3, cipher TLS_AES_256_GCM_SHA384 (256 bits)
+Jan 08 09:44:08 *	Connected. Now logging in.

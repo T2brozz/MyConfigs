@@ -1,0 +1,7 @@
+Linux t2brozz 5.8.16-2-MANJARO #1 SMP PREEMPT Mon Oct 19 11:33:03 UTC 2020 x86_64 GNU/Linux
+
+osType=Linux
+cpuType=i386
+
+PATH=/usr/bin/:/home/yannes/.config/libreoffice/4/user/uno_packages/cache/uno_packages/lu1759unxjce.tmp_/texmaths-0-48.oxt/bin/Linuxi386:/home/yannes/.local/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/usr/lib/jvm/default/bin:/var/lib/snapd/snap/bin
+

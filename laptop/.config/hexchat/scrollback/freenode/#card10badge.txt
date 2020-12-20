@@ -1,0 +1,4 @@
+T 1578473059 19*	Now talking on 22#card10badge
+T 1578473059 22*	Topic for 22#card10badge is: Logix (Wiki): https://card10.badge.events.ccc.de/ git: https://git.card10.badge.events.ccc.de/card10 % current version: https://card10.badge.events.ccc.de/en/firmwareupdate/ % Display: https://www.aliexpress.com/item/4000018872259.html
+T 1578473059 22*	Topic for 22#card10badge set by 26Sebastius!sid106552@gateway/web/irccloud.com/x-iecfpdpcnmdxvfkh (24Thu Aug 29 20:21:36 2019)
+T 1578473060 FiSHLiM plugin unloaded

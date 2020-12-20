@@ -1,0 +1,45 @@
+00:00:00.003004 main     VirtualBox XPCOM Server 6.1.12 r139181 linux.amd64 (Jul 22 2020 20:05:29) release log
+00:00:00.003009 main     Log opened 2020-08-31T12:39:45.837173000Z
+00:00:00.003010 main     Build Type: release
+00:00:00.003014 main     OS Product: Linux
+00:00:00.003016 main     OS Release: 5.7.15-1-MANJARO
+00:00:00.003019 main     OS Version: #1 SMP PREEMPT Tue Aug 11 15:00:37 UTC 2020
+00:00:00.003064 main     DMI Product Name: Aspire A515-51G
+00:00:00.003078 main     DMI Product Version: V1.10
+00:00:00.003086 main     Firmware type: UEFI
+00:00:00.004406 main     Secure Boot: Disabled
+00:00:00.004490 main     Host RAM: 7838MB (7.6GB) total, 5562MB (5.4GB) available
+00:00:00.004496 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.004497 main     Process ID: 4388
+00:00:00.004498 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.008805 main     IPC socket path: /tmp/.vbox-yannes-ipc/ipcd
+00:00:00.127319 nspr-2   VirtualBox: object creation starts
+00:00:00.127595 nspr-2   Home directory: '/home/yannes/.config/VirtualBox'
+00:00:00.128292 nspr-2   Loading settings file "/home/yannes/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.158121 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.160414 nspr-2   HostDnsMonitor: initializing
+00:00:00.161161 nspr-2   NAT: resolv.conf: nameserver 192.168.11.1
+00:00:00.161221 nspr-2   HostDnsMonitor: updating information
+00:00:00.161265 nspr-2   HostDnsMonitor: old information
+00:00:00.161276 nspr-2     no server entries
+00:00:00.161286 nspr-2     no domain set
+00:00:00.161295 nspr-2     no search string entries
+00:00:00.161304 nspr-2   HostDnsMonitor: new information
+00:00:00.161313 nspr-2     server 1: 192.168.11.1
+00:00:00.161324 nspr-2     domain: i.local
+00:00:00.161333 nspr-2     search string 1: i.local
+00:00:00.176637 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.197709 nspr-2   Loading settings file "/home/yannes/VirtualBox VMs/kali/kali.vbox" with version "1.16-linux"
+00:00:00.200660 nspr-2   VirtualBox: object created
+00:00:01.575328 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:01.815907 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:01.817163 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:03.536041 nspr-2   Saving settings file "/home/yannes/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:03.554431 nspr-2   Saving settings file "/home/yannes/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:09.105392 main     VirtualBox: object deletion starts
+00:00:09.105513 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/yannes/VirtualBox VMs/kali/kali.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:09.106858 main     HostDnsMonitor: shutting down ...
+00:00:09.111064 main     HostDnsMonitor: shut down
+00:00:09.204679 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:14.111286 main     {00007f06fc0183b0} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:00:14.111699 main     VirtualBox: object deleted

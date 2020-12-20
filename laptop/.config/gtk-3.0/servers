@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="ftp://10.3.141.142:2121/" added="2020-07-04T20:51:58Z" modified="2020-07-04T20:51:58Z" visited="2020-07-04T20:51:58Z">
+    <title>/ on 10.3.141.142:2121</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2020-07-04T20:51:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="ftp://192.168.15.87:2121/" added="2020-09-03T09:05:58Z" modified="2020-11-03T08:37:31.136086Z" visited="2020-11-03T08:37:31.136072Z">
+    <title>/ on 192.168.15.87:2121</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2020-11-03T08:37:31.136076Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="ftp://192.168.14.220:2121/" added="2020-11-23T10:00:07.299106Z" modified="2020-11-23T10:00:07.299111Z" visited="2020-11-23T10:00:07.299107Z">
+    <title>/ on 192.168.14.220:2121</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2020-11-23T10:00:07.299108Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="ftp://192.168.178.243:2121/" added="2020-11-25T13:32:17.343620Z" modified="2020-11-25T13:32:17.343639Z" visited="2020-11-25T13:32:17.343625Z">
+    <title>/ on 192.168.178.243:2121</title>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="org.gnome.Nautilus" exec="&apos;org.gnome.Nautilus %u&apos;" modified="2020-11-25T13:32:17.343629Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

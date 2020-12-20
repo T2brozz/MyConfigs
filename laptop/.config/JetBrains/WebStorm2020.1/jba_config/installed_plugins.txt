@@ -1,0 +1,5 @@
+com.chrisrm.idea.MaterialThemeUI
+com.mallowigi
+org.sonarlint.idea
+com.genuitec.codetogether
+izhangzhihao.rainbow.brackets

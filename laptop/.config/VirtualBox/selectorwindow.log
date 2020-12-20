@@ -1,0 +1,18 @@
+00:00:00.844351 VirtualBox GUI VM Selector Window 6.1.12 r139181 linux.amd64 (Jul 22 2020 20:05:29) release log
+00:00:00.844357 Log opened 2020-08-31T12:39:46.208242000Z
+00:00:00.844359 Build Type: release
+00:00:00.844366 OS Product: Linux
+00:00:00.844370 OS Release: 5.7.15-1-MANJARO
+00:00:00.844373 OS Version: #1 SMP PREEMPT Tue Aug 11 15:00:37 UTC 2020
+00:00:00.844431 DMI Product Name: Aspire A515-51G
+00:00:00.844453 DMI Product Version: V1.10
+00:00:00.844465 Firmware type: UEFI
+00:00:00.846257 Secure Boot: Disabled
+00:00:00.846373 Host RAM: 7838MB (7.6GB) total, 5559MB (5.4GB) available
+00:00:00.846382 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.846383 Process ID: 4363
+00:00:00.846385 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.846472 Qt version: 5.15.0
+00:00:00.938169 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:02.014224 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x 1366x740
+00:00:02.041612 GUI: UIMediumEnumerator: Medium-enumeration finished!

@@ -1,0 +1,26 @@
+00:00:00.511120 VirtualBox GUI VM Selector Window 6.1.2 r135662 linux.amd64 (Jan 14 2020 22:33:16) release log
+00:00:00.511124 Log opened 2020-01-24T10:53:44.216630000Z
+00:00:00.511125 Build Type: release
+00:00:00.511128 OS Product: Linux
+00:00:00.511130 OS Release: 5.3.18-1-MANJARO
+00:00:00.511133 OS Version: #1 SMP PREEMPT Wed Dec 18 18:34:35 UTC 2019
+00:00:00.511168 DMI Product Name: Aspire A515-51G
+00:00:00.511184 DMI Product Version: V1.10
+00:00:00.511191 Firmware type: UEFI
+00:00:00.512333 Secure Boot: Disabled
+00:00:00.512412 Host RAM: 7839MB (7.6GB) total, 4925MB (4.8GB) available
+00:00:00.512417 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.512418 Process ID: 10974
+00:00:00.512419 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.512470 Qt version: 5.14.0
+00:00:00.549126 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.549160 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.031196 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x0 x 1280x695
+00:01:12.681588 GUI: UIMediumEnumerator: Medium with key={{69f31969-d42c-4952-968d-ebeab38f55d0}} created
+00:01:13.374141 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:16.226890 2D support test succeeded
+00:01:36.174605 GUI: UIMediumEnumerator: Medium with key={{effd1447-bb28-4dde-90db-fd3375fc1622}} created
+00:01:36.373723 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:42.130951 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:42.180642 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:37.726187 ERROR [COM]: aRC=NS_ERROR_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
