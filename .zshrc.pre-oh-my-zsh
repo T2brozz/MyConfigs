@@ -1,0 +1,10 @@
+# Lines configured by zsh-newuser-install
+bindkey -e
+# End of lines configured by zsh-newuser-install
+# The following lines were added by compinstall
+zstyle :compinstall filename '/home/yannes/.zshrc'
+
+autoload -Uz compinit
+compinit
+ZSH_THEME="/home/yannes/.oh-my-zsh/custom/themes/powerlevel9k"
+# End of lines added by compinstall
